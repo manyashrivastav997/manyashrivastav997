@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Manya 👋<br>I’m a 1st year student at SRM University, Andhra Pradesh. <br>I’m currently learning programming basics and exploring the AI and ML domain.<br> I’m eager to learn, grow, and collaborate on projects.
+Hi, I’m Manya 👋<br>I’m a 2nd year student at SRM University, Andhra Pradesh. <br>I’m currently learning programming basics and exploring the AI and ML domain.<br> I’m eager to learn, grow, and collaborate on projects.
 
 
 ## 🌐 Socials:
